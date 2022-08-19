@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "606415453677",
+    "project_id": "my-final-year-project-fdefc",
+    "storage_bucket": "my-final-year-project-fdefc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606415453677:android:ae87fd4f58e2cb32c13be4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fbfirestore_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606415453677-ffklv1ovu2m0n97bup11f4voth7rb446.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ99QobEASGyiO0klByI3u3XFP5I0XtjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606415453677-ffklv1ovu2m0n97bup11f4voth7rb446.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606415453677:android:aa8f26ff59a062fac13be4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_hotel_booking_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606415453677-ffklv1ovu2m0n97bup11f4voth7rb446.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ99QobEASGyiO0klByI3u3XFP5I0XtjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606415453677-ffklv1ovu2m0n97bup11f4voth7rb446.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
